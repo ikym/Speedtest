@@ -24,9 +24,7 @@ Works with mobile versions too.
 * A fast! internet connection
 
 ## Donate
-[![Donate with Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fdossena/donate)
 [![PayPal](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/26_Yellow_PayPal_Pill_Button.png)](paypal.me/wangxiaopeng0)  
-[Donate with PayPal](https://www.paypal.me/sineisochronic)  
 
 ## License
 Copyright (C) 2016-2019 Federico Dossena
