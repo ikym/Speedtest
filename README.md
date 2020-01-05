@@ -27,6 +27,6 @@ Works with mobile versions too.
 [![PayPal](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/26_Yellow_PayPal_Pill_Button.png)](paypal.me/wangxiaopeng0)  
 
 ## License
-Copyright (C) <!-- Copyright time code begins --><script>// <![CDATA[document.write(new Date().getFullYear());// ]]></script><!-- End of copyright time code --> Cyril Wong
+Copyright (C) <%= date(new Date(), 'YYYY') %> Cyril Wong
 
 Unless otherwise stated, everything on this GitHub is released under the [MIT](https://mit-license.org) license.
