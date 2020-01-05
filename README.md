@@ -27,6 +27,5 @@ Works with mobile versions too.
 [![PayPal](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/26_Yellow_PayPal_Pill_Button.png)](paypal.me/wangxiaopeng0)  
 
 ## License
-Copyright (C) <!--?php echo date("Y"); ?--> Cyril Wong
 
 Unless otherwise stated, everything on this GitHub is released under the [MIT](https://mit-license.org) license.
